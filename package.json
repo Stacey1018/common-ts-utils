@@ -1,0 +1,32 @@
+{
+  "name": "common-ts-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stacey1018/common-ts-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stacey1018/common-ts-utils/issues"
+  },
+  "homepage": "https://github.com/Stacey1018/common-ts-utils#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.48.1",
+    "@typescript-eslint/parser": "^5.48.1",
+    "eslint": "^8.31.0",
+    "eslint-plugin-react": "^7.32.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "ts-loader": "^9.4.2"
+  }
+}
